@@ -1,0 +1,10 @@
+<web-app>
+
+<jsp-config>
+	<taglib>
+		<taglib-uri>/Mytaglib.tld</taglib-uri>
+		<taglib-location>/WEB-INF/Mytaglib.tld</taglib-location>
+	</taglib>	
+</jsp-config>
+
+</web-app>

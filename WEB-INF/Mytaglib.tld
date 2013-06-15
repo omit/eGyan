@@ -1,0 +1,21 @@
+
+<taglib>
+
+   <tlib-version>1.0</tlib-version>
+   <jsp-version>1.2</jsp-version>
+
+
+
+  <tag>
+    
+	<name>hello</name>
+    <tag-class>mypack.HelloTag</tag-class>
+    <body-content>JSP</body-content>
+    <attribute>
+     		<name>color</name>
+    		
+    		<required>true</required>
+    </attribute>
+	
+  </tag>
+</taglib>
